@@ -1,0 +1,4 @@
+C:\Users\Kyle2\Documents\Visual Studio 2010\Projects\PrototypeTwitter\PrototypeTwitter\bin\Debug\PrototypeTwitter.exe
+C:\Users\Kyle2\Documents\Visual Studio 2010\Projects\PrototypeTwitter\PrototypeTwitter\bin\Debug\PrototypeTwitter.pdb
+C:\Users\Kyle2\Documents\Visual Studio 2010\Projects\PrototypeTwitter\PrototypeTwitter\obj\x86\Debug\PrototypeTwitter.exe
+C:\Users\Kyle2\Documents\Visual Studio 2010\Projects\PrototypeTwitter\PrototypeTwitter\obj\x86\Debug\PrototypeTwitter.pdb
